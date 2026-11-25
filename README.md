@@ -22,8 +22,8 @@ Quatre cas de vol de moto enregistrés à l'UNSTIM en janvier 2025. Un hackathon
 | Page | Diagramme | Lien |
 |:---:|---|---|
 | 1 | Cas d'utilisation | [Page 1](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-991%2C-530%2C3289%2C1611%2C0_0&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
-| 2 | Séquence | [Page 2](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-296%2C-210%2C3034%2C1486%2CXrZPax2~2SjV&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
-| 3 | Classes | [Page 3](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-3615%2C-1315%2C2876%2C1409%2CdOZPFMDdV0LL&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
+| 2 | Classes | [Page 2](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-296%2C-210%2C3034%2C1486%2CXrZPax2~2SjV&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
+| 3 | Séquence | [Page 3](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-3615%2C-1315%2C2876%2C1409%2CdOZPFMDdV0LL&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
 
 **Document 2 (2 pages) :** [LIEN_DOC_2](LIEN_DOC_2)
 
