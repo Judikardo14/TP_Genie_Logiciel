@@ -13,7 +13,7 @@ Quatre cas de vol de moto enregistrés à l'UNSTIM en janvier 2025. Un hackathon
 | Fichier | Description |
 |---|---|
 | `README.md` | Index du projet et des diagrammes |
-| `NOM_DU_FICHIER.pdf` | Analyse complète du dispositif |
+| `TP_Génie_Logiciel.pdf` | Analyse complète du dispositif |
 
 ## Diagrammes (Lucidchart)
 
