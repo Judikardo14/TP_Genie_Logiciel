@@ -1,5 +1,4 @@
-# Modélisation d’un système de sécurisation des motos de
-l’UNSTIM par démarrage biométrique
+# Modélisation d’un système de sécurisation des motos par démarrage biométrique
 
 Devoir de Génie Logiciel — ENSGMM, UNSTIM (Génie Mathématique et Modélisation, 2ᵉ année)
 **Auteur :** DOBOEVI Judicaël Karol — **Superviseur :** Dr CAPO-CHICHI Gilbert
