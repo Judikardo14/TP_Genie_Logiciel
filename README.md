@@ -27,7 +27,7 @@ Chaque document contient un diagramme par page. J'ai mis les liens de chaque doc
 | 2 | Classes | [Page 2](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-296%2C-210%2C3034%2C1486%2CXrZPax2~2SjV&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
 | 3 | Séquence | [Page 3](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-3615%2C-1315%2C2876%2C1409%2CdOZPFMDdV0LL&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
 
-**Document 2 (2 pages) :** [LIEN_DOC_2](LIEN_DOC_2)
+**Document 2 (2 pages) :** [LIEN_DOC_2](https://lucid.app/lucidchart/2c0a0cd5-9da6-4334-b8c1-dd97b5d26ad2/edit?viewport_loc=-365%2C467%2C2325%2C1045%2CmP0Pl2Vp92LS&invitationId=inv_38bd36c2-53f7-4bd0-bde5-ad277056424d)
 
 | Page | Diagramme | Lien |
 |:---:|---|---|
