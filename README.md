@@ -17,22 +17,22 @@ Quatre cas de vol de moto enregistrés à l'UNSTIM en janvier 2025. Un hackathon
 
 ## Diagrammes (Lucidchart)
 
-Chaque document contient un diagramme par page. J'ai mis les liens de chaque document et aussi les liens des pages éventuellement si vous voulez accédez aux pages depuis ici.  
+Chaque document contient un diagramme par page. Cliquez sur le nom du document et vous y accèderez
 
 **Document 1 (3 pages) :** [LIEN_DOC_1](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-991%2C-530%2C3289%2C1611%2C0_0&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7)
 
-| Page | Diagramme | Lien |
+| Page | Diagramme | Pages |
 |:---:|---|---|
-| 1 | Cas d'utilisation | [Page 1](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-991%2C-530%2C3289%2C1611%2C0_0&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
-| 2 | Classes | [Page 2](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-296%2C-210%2C3034%2C1486%2CXrZPax2~2SjV&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
-| 3 | Séquence | [Page 3](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-3615%2C-1315%2C2876%2C1409%2CdOZPFMDdV0LL&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7) |
+| 1 | Cas d'utilisation | Page 1 |
+| 2 | Classes | Page 2 |
+| 3 | Séquence | Page 3 |
 
 **Document 2 (2 pages) :** [LIEN_DOC_2](https://lucid.app/lucidchart/2c0a0cd5-9da6-4334-b8c1-dd97b5d26ad2/edit?viewport_loc=-365%2C467%2C2325%2C1045%2CmP0Pl2Vp92LS&invitationId=inv_38bd36c2-53f7-4bd0-bde5-ad277056424d)
 
-| Page | Diagramme | Lien |
+| Page | Diagramme | Pages |
 |:---:|---|---|
-| 1 | Composants | [Page 1](https://lucid.app/lucidchart/2c0a0cd5-9da6-4334-b8c1-dd97b5d26ad2/edit?viewport_loc=-365%2C467%2C2325%2C1045%2CmP0Pl2Vp92LS&invitationId=inv_38bd36c2-53f7-4bd0-bde5-ad277056424d) |
-| 2 | Activité | [Page 2](https://lucid.app/lucidchart/2c0a0cd5-9da6-4334-b8c1-dd97b5d26ad2/edit?viewport_loc=-876%2C-231%2C3648%2C1640%2CSh1PrpzhVMn_&invitationId=inv_38bd36c2-53f7-4bd0-bde5-ad277056424d) |
+| 1 | Composants | Page 1 |
+| 2 | Activité | Page 2 |
 
 ## Acteurs
 
