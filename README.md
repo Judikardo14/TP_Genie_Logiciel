@@ -17,6 +17,8 @@ Quatre cas de vol de moto enregistrés à l'UNSTIM en janvier 2025. Un hackathon
 
 ## Diagrammes (Lucidchart)
 
+Chaque document contient un digramme par page. J'ai mis les liens des documents et aussi les liens des pages éventuellement 
+
 **Document 1 (3 pages) :** [LIEN_DOC_1](https://lucid.app/lucidchart/0af655b8-c348-4b3f-874d-a76998b335e3/edit?viewport_loc=-991%2C-530%2C3289%2C1611%2C0_0&invitationId=inv_bcba9167-6261-42f5-b5e7-ea00134283e7)
 
 | Page | Diagramme | Lien |
